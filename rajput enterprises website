@@ -1,0 +1,5 @@
+"homepage": "https://your-github-username.github.io/rajput-enterprises-website",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
